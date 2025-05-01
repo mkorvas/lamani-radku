@@ -1,6 +1,6 @@
 Zdá se, že ještě v roce 2025 je poptávka po programech na zalamování slov 
 do řádků (anglicky "hyphenation"). Zde tedy nahrávám svůj kód napsaný pro 
-zápočet z programování někdy v roce 2013. Ano, má chyby a možná zaslouží 
+zápočet z programování někdy v roce 2008. Ano, má chyby a možná zaslouží 
 úplně přepsat, ale snad se z něj přece jen dá ještě něco použít.
 
 Chcete-li, můžete mi poslat pull request a předpokládám, že ho rád přijmu.
